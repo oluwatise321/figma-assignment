@@ -810,3 +810,29 @@ color: white;
   top: 300px;
   width: 1180px;
 }
+.terms{
+  position: absolute;
+width: 113px;
+height: 27px;
+left: 1045px;
+top: 320px;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+color: white;
+}
+.tweet{
+  left:1195px;
+  top:335px ;
+  position: absolute;
+}
+.face{
+  left:1230px ;
+  position: absolute;
+  top: 335px;
+}
+.link{
+  left:1265px ;
+  position: absolute;
+  top: 335px;
+}
